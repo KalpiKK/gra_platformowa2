@@ -18,3 +18,9 @@ Gra platformowa
 * Opis szczegółowy:
  - Program napisany w Pythonie 2.
  - Użycie biblioteki pygame.
+
+* Harmonogram:
+  - 10.11.16r. stworzenie grafiki do gry
+  - 15.12.16r. dopracowanie wszystkich kolizji
+  - 23.12.16r. stworzenie prototypu
+  - 12.01.17r. końcowy projekt
